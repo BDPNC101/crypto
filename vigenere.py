@@ -1,4 +1,4 @@
-from helper import alphabet_position, rotate_character
+from helpers import alphabet_position, rotate_character
 
 def encrypt(text, key):
     #(1) break key in series of rot commands
